@@ -43,7 +43,9 @@ Commands:
          dictionary.
        - N - N, No or any variation thereof is input for the dictionary prompt
          that will decline adding the prompted word to AiEura's dictionary.
-         
+To do:
+   - Add chatlog with timestamps, and timed operation
+
 Version Information:
    - 1.0.2
        + Now with database merging script
