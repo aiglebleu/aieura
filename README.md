@@ -32,8 +32,10 @@ Commands:
    - [input] - input is any sentence of which each word in that sentence is a
      valid word that is included in AiEura's dictionary, and not included in the
      banned word dictionary.
-   - ! - Instead of input, the character '!' may be supplied by the user instead,
-     which will restart the program and clear the screen.
+   - ! - Instead of input, the character '!' may be supplied by the user which 
+     will restart the program and clear the screen.
+   - exit() - Instead of input, the characters 'exit()' may be supplied by the
+     user which will close and exit the program to the desktop.
    - In both cases when the add word to dictionary prompt is given, the user will
      need to resubmit their original input to have AiEura respond.
        - Y - Y, Yes or any variation thereof is input for the add word to 
@@ -43,6 +45,8 @@ Commands:
          that will decline adding the prompted word to AiEura's dictionary.
          
 Version Information:
+   - 1.0.1_b
+       + Added easy exit
    - 1.0.1
        + Added support for MacOS, Linux, Unix, and Windows ~ by aiglebleu :p
        * Small efficiency optimizations
