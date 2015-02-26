@@ -44,7 +44,7 @@ Commands:
          
 Version Information:
    - 1.0.1
-       + Added support for MacOS, Linux, Unix, and Windows
+       + Added support for MacOS, Linux, Unix, and Windows ~ by aiglebleu :p
        * Small efficiency optimizations
    - No Version Number
    - Always Updates
