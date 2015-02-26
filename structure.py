@@ -231,6 +231,8 @@ while 1:
             if user_line == '!':
                     os.system('cls')
                     rest_prog()
+            elif user_line == 'exit()':
+                    exit()
             user_line = user_line.lower()
             user_line = list(user_line)
             user_line = ''.join(c for c in user_line if c in 'abcdefghijklmnopqrstuvwxyz ')
