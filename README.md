@@ -6,7 +6,7 @@ from memory. While the bot simply parrots responses it knows from file, it has
 been given the capibility to choose responses to phrases similar or close to the
 user input. This makes AiEura's responses more fluid than other AI chatbots.
 
-Ai Eura is a python3 implimentation and has the following features:
+Ai Eura is a python3 implementation and has the following features:
    - AiEura can learn from user input over time, and will store these learned
      responses in a database managed by the bot in a single, easy to read .txt
      file.
@@ -24,7 +24,7 @@ Ai Eura is a python3 implimentation and has the following features:
      proper text support is available.
    - On startup AiEura will list the number of words in both dictionaries, and
      the number of total responses available in the database.
-   - The newest version of AiEura includes a combonation database merger and
+   - The newest version of AiEura includes a combination database merger and
      sorter that users may run to combine two database files, while removing
      duplicate responses and sorting the contents.
 
@@ -33,7 +33,7 @@ Commands:
      valid word that is included in AiEura's dictionary, and not included in the
      banned word dictionary.
    - ! - Instead of input, the character '!' may be supplied by the user instead,
-     which will restart the program.
+     which will restart the program and clear the screen.
    - In both cases when the add word to dictionary prompt is given, the user will
      need to resubmit their original input to have AiEura respond.
        - Y - Y, Yes or any variation thereof is input for the add word to 
