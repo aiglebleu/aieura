@@ -45,6 +45,8 @@ Commands:
          that will decline adding the prompted word to AiEura's dictionary.
          
 Version Information:
+   - 1.0.2
+       + Now with database merging script
    - 1.0.1_b
        + Added easy exit
    - 1.0.1
