@@ -29,7 +29,7 @@ Ai Eura is a python3 implimentation and has the following features:
      duplicate responses and sorting the contents.
 
 Commands:
-   - <input> - input is any sentence of which each word in that sentence is a
+   - [input] - input is any sentence of which each word in that sentence is a
      valid word that is included in AiEura's dictionary, and not included in the
      banned word dictionary.
    - ! - Instead of input, the character '!' may be supplied by the user instead,
